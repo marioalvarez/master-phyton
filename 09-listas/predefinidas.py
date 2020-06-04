@@ -1,3 +1,6 @@
+
+#Funciones y metodos mas comunes
+
 cantantes = ['2pac','drake','bad bunny','julio iglesias']
 numeros = [1,2,5.5,6,3,4]
 
