@@ -77,7 +77,7 @@ else:
     print("Es fin de semana")
 
 
-
+#operadores logicos
 #ejemoplo 5
 print("####### Ejemplo5 ##############")
 
@@ -92,7 +92,7 @@ if edad_oficial >= 18 and edad_oficial <= 65:
 else:
     print("No esta en edad de trabajar")
 
-#operadores logicos
+
 
 
 #ejemplo7
@@ -114,12 +114,10 @@ pais = "España"
 if not (pais == "Mexico" or pais == "España" or pais == "Colombia"):
     print(f"{pais} es un pais de habla hispana !!")
 else:
-    print(f"{pais} no es un pais de habla hispana ")
+    print(f"{pais} no es un pais de habla hispana "
 
-
-
-#ejemplo 8
-print("####### Ejemplo 8 ##############")
+#ejemplo 7
+print("####### Ejemplo 7 ##############")
 
 pais = "España"
 

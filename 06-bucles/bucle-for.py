@@ -1,10 +1,7 @@
 """
-
-#FOR
-
+FOR
 for variable in elemento_iterable (lista, rango, etc)
     Bloque de instrucciones
-
 """
 contador = 0
 resultado = 0
@@ -14,10 +11,8 @@ for contador in range(0,5):
     resultado = resultado + contador
 print(f"El resultado es: {resultado}")
 
-
 # Ejemplo tablas de multiplicar
 print("\n###### EJMPLO #######")
-
 numero_usuario = int(input("De qe numero quiers la tabla?: "))
 
 if numero_usuario < 1:
